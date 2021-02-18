@@ -7,6 +7,7 @@ name = "pypi"
 twisted = {path = "./Twisted-20.3.0-cp39-cp39-win_amd64.whl"}
 scrapy = "*"
 pytest = "*"
+pytest-base-url = "*"
 
 [dev-packages]
 

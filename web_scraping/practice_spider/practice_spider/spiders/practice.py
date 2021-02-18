@@ -1,5 +1,4 @@
 import scrapy
-import pytest
 
 class PracticeSpider(scrapy.Spider):
   name = 'practice'
